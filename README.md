@@ -4,7 +4,7 @@
 
 ## What this is
 
-6 years of writing. Filtered to the 14,000 that performed. Distilled into the patterns that made them work.
+6 years of writing. Filtered to the 14,000 tweets that performed. Distilled into the patterns that made them work.
 
 Drop it into any AI. Generate content in this voice.
 
