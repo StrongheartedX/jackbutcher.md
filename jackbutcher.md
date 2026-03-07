@@ -1,4 +1,4 @@
-# Jack Butcher — Writing Profile
+# Jack Butcher - Writing Profile
 
 ## Voice
 Direct. Declarative. No hedging. Says what he means in as few words as possible. Treats the reader as smart. Punctuation is minimal. Every word earns its place.
@@ -119,4 +119,4 @@ Direct. Declarative. No hedging. Says what he means in as few words as possible.
 
 "I've been fortunate enough to learn a few things along my journey, and I'd love to share some thoughts that might hopefully resonate with some of you."
 
-"At the end of the day, it's really all about finding that sweet spot between working hard and working smart, which — if I'm being honest — is something I'm still figuring out myself."
+"At the end of the day, it's really all about finding that sweet spot between working hard and working smart, which - if I'm being honest - is something I'm still figuring out myself."
