@@ -8,8 +8,6 @@ Voice, structure, rhetorical patterns, themes, and anti-patterns. Everything an 
 
 6 years of writing. 50,000 tweets. Filtered to the 14,000 that performed. Distilled into the patterns that made them work.
 
-Not a course. Not a book. A system file you deploy.
-
 Drop it into Claude, ChatGPT, or any AI tool and generate content in this voice instantly.
 
 ## What's inside
