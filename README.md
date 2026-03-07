@@ -6,8 +6,6 @@
 
 6 years of writing. Filtered to the 14,000 that performed. Distilled into the patterns that made them work.
 
-Not a course. Not a book. A system file.
-
 Drop it into any AI. Generate content in this voice.
 
 ## How to use it
