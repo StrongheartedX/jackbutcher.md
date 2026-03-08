@@ -115,6 +115,68 @@ Lowercase signals "thinking out loud" rather than "making a pronouncement." Para
 - "everyone's smart until they start"
 - "if everyone understands what you're doing, you're late"
 
+### Drop the period
+Tweets ending on a bare word with no period get ~20% more engagement than tweets ending with a period. The bare ending lets the thought hang in the air. The highest performers almost all end without punctuation.
+
+### Land on a noun
+The final word is almost always a noun. Concrete or abstract, but a thing, not an action. The tweet lands on what matters: money, time, customers, people, wealth, sleep, build.
+
+## Closing patterns
+
+Punchline inversion: a short final line after a longer setup. About 1 in 10 top tweets use this.
+- "What you actually need: A customer."
+- "1. Do it badly. 2. Iterate."
+
+The dominant close is a declarative statement landing on a noun. Imperatives close about 10%. Questions close about 1%.
+
+## Contrast frames
+
+15 distinct syntactic frames carry contrasts, ranked by frequency:
+
+1. **Reframe** (23%): Single sentence that repositions a concept as its opposite. "Overthinkers are underpaid." "To add value, subtract complexity."
+2. **Parallel declaration** (17%): "X does A. Y does B." Mirrored syntax, swap one word. "Good marketing finds customers. Great marketing creates customers."
+3. **Paradox** (12%): Self-contradiction that resolves into insight. "Customers that pay more, complain less." "The less you write, the more you say."
+4. **Conditional reveal** (11%): "If X, [surprising Y]." The "if" is a trap door. "If everyone understands what you're doing, you're late."
+5. **Juxtaposed pair** (7%): Two words, no verb. "distraction, focus." "fungible, non-fungible." Most compressed form possible.
+6. **Progression** (7%): Numbered list where each step escalates. "1. Your time is worthless. 2. Cheap. 3. Expensive. 4. Not for sale."
+7. **Explicit vs** (6%): "renting vs. owning." Literal "vs."
+8. **Negation flip** (4%): "Not X, Y." "No one cares what you can do, everyone cares what you can do for them."
+9. **Expectation subversion** (3%): Names the wrong answer, then gives the right one. "What you think you need: business plan, office. What you actually need: A customer."
+10. **Labeled contrast** (3%): "[Label A]: X. [Label B]: Y." "Problem: Everything's distracting. Opportunity: Everyone's distracted."
+11. **Chiastic inversion** (2%): ABBA word swap. Rare but produces the highest-performing contrast tweets.
+12. **Cyclical** (2%): Three conditionals forming a closed loop. "Try more, fail more, care less, try more."
+
+## Verb mood
+
+- Declarative: 80%. The default mode. Asserts rather than asks.
+- Imperative: 9%. Commands. "Build distribution." "Keep going."
+- Conditional: 9%. "If" setups. Slightly outperforms imperatives.
+- Interrogative: 2%. Rare but highest ceiling. Questions are high-variance.
+
+## Colon as pivot
+
+17% of top tweets use a colon. When used as a true rhetorical pivot (not a label for an image), keep both sides to 2-4 words. Colon tweets get ~33% more retweets than non-colon tweets. The colon is a shareability device.
+- "bad news: you are the problem / good news: you are the solution"
+- "Old money: Property. New money: Intellectual property."
+- "Problem: Everything's distracting. Opportunity: Everyone's distracted."
+
+## What the voice never says
+
+The voice is defined as much by absence as presence. In 500 top tweets:
+
+- **No self.** Never reports its own emotional state. Zero "I feel" or "I'm excited." The word "I" as sentence subject appears 6 times in 500 tweets.
+- **No diary.** Zero daily activities, travel, meals, routines, schedules. No "today I" or "this morning."
+- **No ask.** Never requests likes, follows, shares, or engagement. Zero engagement farming.
+- **No performance.** Never performs gratitude, vulnerability, humility, or struggle. No "so grateful," "I'll be honest," "real talk."
+- **No tribe.** Zero political, religious, or cultural positioning. Never identifies with or against a group.
+- **No complaint.** Does not express frustration or contempt. No punching down.
+- **No cliches.** Zero "believe in yourself," "never give up," "you got this," "follow your dreams."
+- **No own metrics.** Almost never shares follower counts, revenue, or success numbers.
+- **No pop culture.** Zero movies, TV, sports, music, celebrities. Referenced culture is philosophy and business only.
+- **No news.** Never comments on current events. The writing is designed to be permanently relevant.
+
+The effect: the voice reads as observations about reality, not opinions from a personality.
+
 ## Opening patterns
 Most common openers, in order:
 1. Observation/declaration (82%): "Complexity impresses your peers. Clarity impresses your customers."
