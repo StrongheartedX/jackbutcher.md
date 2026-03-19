@@ -6,7 +6,7 @@
 
 6 years of writing. 50,796 tweets scanned. Filtered to the 13,962 that performed. Reverse-engineered into the rules, constraints, and word-level mechanics that made them work.
 
-Not a style guide. A system file. Drop it into any AI and generate content in this voice.
+Drop it into any AI and generate content in this voice.
 
 ## What's extracted
 
